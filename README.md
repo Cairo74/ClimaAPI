@@ -103,3 +103,8 @@ src/main/java/com/example/ClimaAPI/
 ├── controller/Controller.java    # endpoint GET /clima
 └── service/Service.java          # consome a API da Open-Meteo
 ```
+
+# Autores
+
+- Cairo Rodrigues Rezende
+- Pedro José de Magalhães Tavares Camilo
